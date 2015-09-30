@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 32
+#+DATE: 2015-08-24 22:12:24.938327
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十二
 <pb:KR1e0004_WYG_032-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷三十二(起襄公十三/年盡十五年)¶
@@ -686,6 +688,7 @@
 　¶
 　¶
 　春秋左傳注疏卷三十二¶
+#+PROPERTY: JUAN 卷三十二考證
 <pb:KR1e0004_WYG_032-39a>¶
 　春秋左氏傳注疏卷三十二考證¶
 城防○林堯叟曰防臧氏邑(臣浩/)按此近齊之防即隱¶
@@ -758,4 +761,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷三十二考證¶
-

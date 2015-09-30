@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 50
+#+DATE: 2015-08-24 22:12:25.334981
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十
 <pb:KR1e0004_WYG_050-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷五十(起昭公二十一/年盡二十三年)¶
@@ -704,6 +706,7 @@
 　¶
 　¶
 　春秋左傳注疏卷五十¶
+#+PROPERTY: JUAN 卷五十考證
 <pb:KR1e0004_WYG_050-40a>¶
 　春秋左氏傳注疏卷五十考證¶
 傳天王將鑄無射○(臣召南/)按漢書五行志引此作將¶
@@ -758,4 +761,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷五十考證¶
-

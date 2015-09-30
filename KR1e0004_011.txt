@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:12:24.416017
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1e0004_WYG_011-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷十二(起僖公元/年盡五年)¶
@@ -686,6 +688,7 @@
 　¶
 　¶
 　春秋左傳注疏卷十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR1e0004_WYG_011-39a>¶
 　春秋左氏傳注疏卷十一考證¶
 齊師宋師曺伯次于聶北救邢注次于聶北者案兵觀¶
@@ -758,4 +761,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷十一考證¶
-

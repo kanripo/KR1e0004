@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:12:24.679401
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR1e0004_WYG_021-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷二十一(起宣公元/年盡四年)¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　春秋左傳注疏卷二十一¶
+#+PROPERTY: JUAN 卷二十一考證
 <pb:KR1e0004_WYG_021-34a>¶
 　春秋左氏傳注疏卷二十一考證¶
 傳遂以夫人婦姜至自齊尊夫人也○趙汸補注曰此¶
@@ -668,4 +671,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷二十一考證¶
-

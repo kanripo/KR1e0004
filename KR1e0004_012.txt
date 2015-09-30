@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:12:24.441949
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1e0004_WYG_012-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷十二(起僖公六年/盡十四年)¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　春秋左傳注疏卷十二¶
+#+PROPERTY: JUAN 卷十二考證
 <pb:KR1e0004_WYG_012-35a>¶
 　春秋左氏傳注疏卷十二考證¶
 楚人圍許注楚子不親圍以圍者告○(臣召南/)按傳明¶
@@ -668,4 +671,3 @@
 　作平陽今改正¶
 　¶
 　春秋左氏傳注疏卷十二考證¶
-

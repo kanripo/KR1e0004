@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:12:24.392132
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1e0004_WYG_010-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷十(起閔公元/年盡二年)¶
@@ -398,6 +400,7 @@
 　散故能致十倍之衆音義(乘繩證反下/同迸必諍反)¶
 　¶
 　春秋左傳注疏卷十¶
+#+PROPERTY: JUAN 卷十考證
 <pb:KR1e0004_WYG_010-23a>¶
 　春秋左氏傳注疏卷十考證¶
 元年冬齊仲孫來注以事出疆因來省難非齊侯命故¶
@@ -452,4 +455,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷十考證¶
-

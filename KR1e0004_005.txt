@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:12:24.280872
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1e0004_WYG_005-1a>¶
 欽定四庫全書¶
 　春秋左傳注䟽卷五(起桓公三/年盡六年)¶
@@ -668,6 +670,7 @@
 　¶
 　¶
 　春秋左傳注䟽卷五¶
+#+PROPERTY: JUAN 卷五考證
 <pb:KR1e0004_WYG_005-38a>¶
 　春秋左氏傳注䟽卷五考證¶
 齊侯衛侯胥命于蒲○(臣召南/)按傳曰不盟也公羊曰¶
@@ -722,4 +725,3 @@
 　¶
 　¶
 　春秋左氏傳注䟽卷五考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 31
+#+DATE: 2015-08-24 22:12:24.906796
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十一
 <pb:KR1e0004_WYG_031-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷三十一(起襄公十年/盡十二年)¶
@@ -668,6 +670,7 @@
 　¶
 　¶
 　春秋左傳注疏卷三十一¶
+#+PROPERTY: JUAN 卷三十一考證
 <pb:KR1e0004_WYG_031-38a>¶
 　春秋左氏𫝊注疏卷三十一考證¶
 㑹吳于柤注柤楚地○(臣召南/)按此時楚地恐尚不及¶
@@ -740,4 +743,3 @@
 　¶
 　¶
 　春秋左氏傳注䟽卷三十一考證¶
-

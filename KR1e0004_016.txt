@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:12:24.552010
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1e0004_WYG_016-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷十六(起僖公二十九/年盡三十三年)¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　春秋左傳注疏卷十六¶
+#+PROPERTY: JUAN 卷十六考證
 <pb:KR1e0004_WYG_016-32a>¶
 　春秋左氏傳注疏卷十六考證¶
 會王人晉人宋人齊人陳人蔡人秦人盟于翟泉○(臣/)¶
@@ -632,4 +635,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷十六考證¶
-

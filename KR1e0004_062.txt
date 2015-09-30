@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 62
+#+DATE: 2015-08-24 22:12:25.630159
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [考證跋語]
 <pb:KR1e0004_WYG_062-1a>¶
 　　原詹事(臣/)陳浩謹言按傳春秋者三家左氏立學¶
 　　官最後然傳世久且益盛逈非公羊榖梁所能及¶
@@ -35,4 +37,3 @@
 　　經有闗於左氏短長補注有裨於杜氏訓釋他書¶
 　　引用有足與孔疏相發明者亦採附卷末以備一¶
 　　經之考証(臣浩/)謹識¶
-

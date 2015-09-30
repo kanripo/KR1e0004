@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:12:24.351797
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0004_WYG_008-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷八(起莊公十一年/盡二十二年)¶
@@ -758,6 +760,7 @@
 　¶
 　¶
 　春秋左傳注疏卷八¶
+#+PROPERTY: JUAN 卷八考證
 <pb:KR1e0004_WYG_008-43a>¶
 　春秋左氏傳注疏卷八考證¶
 宋大水注公使弔之故書○吕祖謙曰諸國告則書其¶
@@ -830,4 +833,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷八考證¶
-

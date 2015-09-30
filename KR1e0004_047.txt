@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 47
+#+DATE: 2015-08-24 22:12:25.269012
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十七
 <pb:KR1e0004_WYG_047-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷四十七(起昭公十四/年盡十六年)¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　春秋左傳注疏卷四十七¶
+#+PROPERTY: JUAN 卷四十七考證
 <pb:KR1e0004_WYG_047-32a>¶
 　春秋左氏傳注疏卷四十七考證¶
 傳曰義也夫可謂直矣○趙汸補注曰傳本以直為義¶
@@ -614,4 +617,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷四十七考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 59
+#+DATE: 2015-08-24 22:12:25.564476
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十九
 <pb:KR1e0004_WYG_059-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷五十九(起哀公十二/年盡十五年)¶
@@ -650,6 +652,7 @@
 　¶
 　¶
 　春秋左傳注疏卷五十九¶
+#+PROPERTY: JUAN 卷五十九考證
 <pb:KR1e0004_WYG_059-37a>¶
 　春秋左氏傳注疏卷五十九考證¶
 用田賦○林堯叟曰以邱賦一乘為未足又以田賦之¶
@@ -722,4 +725,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷五十九考證¶
-

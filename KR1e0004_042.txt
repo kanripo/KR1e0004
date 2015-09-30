@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 42
+#+DATE: 2015-08-24 22:12:25.151510
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十二
 <pb:KR1e0004_WYG_042-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷四十二(起昭公二/年盡四年)¶
@@ -902,6 +904,7 @@
 　¶
 　¶
 　春秋左傳注疏卷四十二¶
+#+PROPERTY: JUAN 卷四十二考證
 <pb:KR1e0004_WYG_042-51a>¶
 　春秋左氏傳注疏卷四十二考證¶
 叔弓如晉注叔弓叔老子○(臣召南/)按各本俱有此注¶
@@ -974,4 +977,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷四十二考證¶
-

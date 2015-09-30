@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:12:24.299035
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1e0004_WYG_006-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷六(起桓公七年/盡十八年)¶
@@ -722,6 +724,7 @@
 　¶
 　¶
 　春秋左傳注疏卷六¶
+#+PROPERTY: JUAN 卷六考證
 <pb:KR1e0004_WYG_006-41a>¶
 　春秋左氏傳注疏卷六考證¶
 穀伯綏來朝鄧侯吾離來朝注穀國在南鄉筑陽縣北¶
@@ -794,4 +797,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷六考證¶
-

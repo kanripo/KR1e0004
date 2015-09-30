@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:12:24.371609
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1e0004_WYG_009-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷九(起荘公二十三/年盡三十二年)¶
@@ -650,6 +652,7 @@
 　¶
 　¶
 　春秋左傳注疏巻九¶
+#+PROPERTY: JUAN 卷九考證
 <pb:KR1e0004_WYG_009-37a>¶
 　春秋左氏傳注疏卷九考證¶
 公如齊觀社疏皆但書而不言其事○推尋文義應作¶
@@ -704,4 +707,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷九考證¶
-

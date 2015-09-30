@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:12:24.468923
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1e0004_WYG_013-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷十三(起僖公十五年/盡二十一年)¶
@@ -758,6 +760,7 @@
 　¶
 　¶
 　春秋左傳注疏卷十三¶
+#+PROPERTY: JUAN 卷十三考證
 <pb:KR1e0004_WYG_013-43a>¶
 　春秋左氏傳注疏卷十三考證¶
 晉侯及秦伯戰于韓獲晉侯○顧炎武日知錄曰及韓¶
@@ -830,4 +833,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷十三考證¶
-

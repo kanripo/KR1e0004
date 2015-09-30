@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳注疏
-#+DATE: 2015-09-23 09:39:17
-#+PROPERTY: JUAN 39
+#+DATE: 2015-08-24 22:12:25.088796
+#+PROPERTY: ID KR1e0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十九
 <pb:KR1e0004_WYG_039-1a>¶
 欽定四庫全書¶
 　春秋左傳注疏卷三十九(起襄公二十九/年盡二十九年)¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　春秋左傳注疏卷三十九¶
+#+PROPERTY: JUAN 卷三十九考證
 <pb:KR1e0004_WYG_039-33a>¶
 　春秋左氏傳注疏卷三十九考證¶
 春王正月公在楚○劉敞曰書公在楚以存公也公之¶
@@ -668,4 +671,3 @@
 　¶
 　¶
 　春秋左氏傳注疏卷三十九考證¶
-
